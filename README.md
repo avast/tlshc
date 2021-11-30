@@ -1,4 +1,4 @@
-![Master](https://github.com/avast/tlshc/actions/workflows/cmake.yml/badge.svg?branch=main)
+[![CMake](https://github.com/avast/tlshc/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/avast/tlshc/actions/workflows/cmake.yml)
 
 # TLSHC
 
